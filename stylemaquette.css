@@ -1,0 +1,13 @@
+ {
+/* Centrer le formulaire sur la page */
+  margin: 0 auto;
+  width: 400px;
+  /* apperçu du formulaire */
+  padding: 1em;
+  border: 1px solid #CCC;
+  border-radius: 1em;
+}
+
+  {
+    border-radius: 1em;
+ }
